@@ -7,3 +7,5 @@ results/local/
 results/*.txt
 ARTICLE.md
 *.article.md
+config.bat
+node_modules
